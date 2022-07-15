@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
 }
 
+/* переменные */
 :root {
   --primary-text-colot: #212121;
   --title-text-color: #757575;
