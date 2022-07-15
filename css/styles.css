@@ -675,6 +675,7 @@ a {
 .section-production {
   margin-bottom: 4px;
 
+  color: var(--primary-text-colot);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
